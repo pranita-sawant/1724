@@ -1,3 +1,4 @@
 # Roll No: 1724
-  OOPLab
-  Program on Football Game Scenario 
+List of Programs:
+ 1. Program on Football Game Scenario
+ 2. Bubble_Sorting using static methods
