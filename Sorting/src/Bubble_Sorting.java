@@ -6,18 +6,6 @@ public class Bubble_Sorting {
 	static int arr[]={8,7,2,4,34,99,56,32};
 	static int n=arr.length;
 	
-	//constructor
-	public Bubble_Sorting(){
-		i=0;
-		j=0;
-	}
-	
-	public Bubble_Sorting(int i, int j, int[] arr) {
-		this.i = i;
-		this.j = j;
-		this.arr = arr;
-	}
-	
 	//Setter=Getter methods
 	public int getI() {
 		return i;
