@@ -1,0 +1,9 @@
+package pojo;
+
+public interface PlayerTypes {
+	public abstract void  typeDefender();
+	public void typeStriker();
+	public abstract void midFielder();
+	public abstract void goalKeeper();
+	
+}

@@ -1,0 +1,15 @@
+package pojo;
+
+public class Defender extends Player implements Salary, TotalMaches {
+
+	@Override
+	public void calculateSalary() {
+		System.out.println("Calculate Salary For Defender");
+	}
+
+	@Override
+	public void totalMatchesPlayed() {
+		System.out.println("Total Matches Played by Defender");
+	}
+
+}

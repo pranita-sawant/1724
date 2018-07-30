@@ -3,6 +3,7 @@ public abstract class Staff {
 	private String name;
 
 	public abstract void calculateSalary();
+	
 	public Staff() {
 		name = " ";
 	}

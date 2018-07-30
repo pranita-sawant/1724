@@ -1,0 +1,10 @@
+
+public class ContractTeacher extends Staff implements Pay {
+
+	@Override
+	public void calculateSalary() {
+		System.out.println("Contract Base Teacher");
+		
+	}
+
+}
