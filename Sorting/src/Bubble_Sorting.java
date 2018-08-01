@@ -6,6 +6,12 @@ public class Bubble_Sorting {
 	static int arr[]={8,7,2,4,34,99,56,32};
 	static int n=arr.length;
 	
+	public Bubble_Sorting(){
+		int i=0;
+		int j=0;
+		int temp=0;
+		int arr[];
+	}
 	//Setter=Getter methods
 	public int getI() {
 		return i;
